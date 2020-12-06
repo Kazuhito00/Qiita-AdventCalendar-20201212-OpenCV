@@ -57,7 +57,7 @@ OpenCVでのデモ時に見栄えを工夫したものをまとめています�
 ![08](https://user-images.githubusercontent.com/37477845/101269875-9519be80-37b6-11eb-8265-a4ed14f695b0.gif)<br>
 ソースコード：[08_style_transfer_demo.py](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV/blob/main/08_style_transfer_demo.py)<br>
 実行方法：python 01_classification_demo.py<br>
-ライセンス：[CC BY-NC-SA 4.0](LICENSE(CC BY-NC-SA 4.0))<br>
+ライセンス：[CC BY-NC-SA 4.0](LICENSE(CC%20BY-NC-SA%204.0))<br>
 参照リポジトリ：[SystemErrorWang/White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) のモデルとスクリプトを参考にしています
 
 # Authors

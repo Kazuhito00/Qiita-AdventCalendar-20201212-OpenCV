@@ -1,4 +1,4 @@
 opencv-python==4.4.0.42
-Pillow==7.2.0
+Pillow==8.2.0
 tensorflow-gpu>=2.4.0
 tf-slim==1.1.0
